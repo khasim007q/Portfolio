@@ -1,7 +1,7 @@
 # Portfolio
 
 
-#### SKILLS & TECHNICAL EXPERTISE
+## SKILLS & TECHNICAL EXPERTISE
 
 - Programming Languages: Python, Java, R, SQL
 - ML/AI Frameworks & Libraries: TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas, Matplotlib
@@ -10,16 +10,16 @@
 - Cloud & Deployment: AWS, Google Cloud, Azure (basic knowledge)
 
 
-#### EXPERIENCE
+## EXPERIENCE
 
-## Software Intern – Zaks Intl | OnsiteJanuary 2025 – Present
+### Software Intern – Zaks Intl | OnsiteJanuary 2025 – Present
 
 - Optimized AI model performance by streamlining data collection, cleaning, and preprocessing, improving data quality by 30%.
 - Enhanced customer engagement by managing and automating workflows in Odoo CRM, reducing manual intervention by 40%.
 - Developed and deployed an AI-powered chatbot, improving customer response time by 50% and increasing user interactions.
 - Automated data extraction using Python web scraping scripts, reducing research time by 60% and enhancing lead generation.
 
-## Data Science & Machine Learning Intern – YBI Foundation | RemoteDecember 2023 – January 2024
+### Data Science & Machine Learning Intern – YBI Foundation | RemoteDecember 2023 – January 2024
 
 - Enhanced model performance by performing data cleaning and optimization, leading to a 20% improvement in efficiency.
 - Designed and implemented regression models, leveraging statistical analysis and feature engineering to improve predictive accuracy.
@@ -27,9 +27,9 @@
 - Developed insightful data visualizations, enabling data-driven decision-making and improving interpretability of model outputs.
 
 
-#### PROJECTS
+## PROJECTS
 
-## Deep Fake Detection Using Twitter Bot
+### Deep Fake Detection Using Twitter Bot
 
 - Achieved 98% accuracy in detecting DeepFake videos using CNNs, Vision Transformers (ViT), and BlazeFace.
 - Improved processing speed by 94% with CUDA-based acceleration for real-time analysis.
@@ -37,7 +37,7 @@
 - Trained on Facebook’s DFDC dataset with over 120,000 videos for robust detection.
 - Designed for scalability and cloud deployment on AWS and Google Cloud for efficient large-scale processing.
 
-## Image Recognition using Artificial Intelligence
+### Image Recognition using Artificial Intelligence
 
 - Increased image classification accuracy to 95% using Support Vector Machines (SVM), Deep Learning, and Neural Networks.
 - Optimized image processing speed by 40%, reducing classification time from 5 seconds to 3 seconds per image.
@@ -47,20 +47,20 @@
 - Scalable deployment-ready model, designed for real-time image recognition on cloud-based platforms.
 
 
-#### PUBLICATION
+## PUBLICATION
 
 - The Digital Looking Glass: Predicting DeepFake Evolution through Social Media Bot Analysis, ZKG International vol. IX, 2024
   - Issue I.DOI: https://bit.ly/DigitalLookingGlass
 
 
-### EDUCATION
+## EDUCATION
 
 Osmania University
 - Bachelor Of Engineering - Computer Science (Specialized in AI & ML)        Hyderabad, India | July 2024 | CGPA: 7.90 
 - Relevant Courses: AI, Advanced ML, Data Mining, DBMS, Big Data, Deep Learning
 
 
-### EXTRACURRICULAR ACTIVITIES
+## EXTRACURRICULAR ACTIVITIES
 
 - IEEE Member (2021-2024): Assisted in event organization and inventory management.
 
