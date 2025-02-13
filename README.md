@@ -50,7 +50,7 @@
 #### PUBLICATION
 
 - The Digital Looking Glass: Predicting DeepFake Evolution through Social Media Bot Analysis, ZKG International vol. IX, 2024
-  - [Issue I.DOI]: https://bit.ly/DigitalLookingGlass
+  - Issue I.DOI: https://bit.ly/DigitalLookingGlass
 
 
 ### EDUCATION
