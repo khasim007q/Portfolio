@@ -54,8 +54,9 @@ Cloud & Deployment: AWS, Google Cloud, Azure (basic knowledge)
 
 ### EDUCATION
 
-Osmania UniversityBachelor Of Engineering - Computer Science (Specialized in AI & ML)Hyderabad, India | July 2024 | CGPA: 7.90 
-Relevant Courses: AI, Advanced ML, Data Mining, DBMS, Big Data, Deep Learning
+Osmania University
+- Bachelor Of Engineering - Computer Science (Specialized in AI & ML)        Hyderabad, India | July 2024 | CGPA: 7.90 
+- Relevant Courses: AI, Advanced ML, Data Mining, DBMS, Big Data, Deep Learning
 
 
 ### EXTRACURRICULAR ACTIVITIES
