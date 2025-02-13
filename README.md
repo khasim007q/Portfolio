@@ -3,11 +3,11 @@
 
 #### SKILLS & TECHNICAL EXPERTISE
 
-Programming Languages: Python, Java, R, SQL
-ML/AI Frameworks & Libraries: TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas, Matplotlib
-Data Processing & Tools: Google Colab, Jupyter, Anaconda, MySQL, SQLite, Excel (Pivot Tables, VLOOKUPs)
-Core Competencies: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data Visualization, Statistical Analysis
-Cloud & Deployment: AWS, Google Cloud, Azure (basic knowledge)
+- Programming Languages: Python, Java, R, SQL
+- ML/AI Frameworks & Libraries: TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas, Matplotlib
+- Data Processing & Tools: Google Colab, Jupyter, Anaconda, MySQL, SQLite, Excel (Pivot Tables, VLOOKUPs)
+- Core Competencies: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data Visualization, Statistical Analysis
+- Cloud & Deployment: AWS, Google Cloud, Azure (basic knowledge)
 
 
 #### EXPERIENCE
